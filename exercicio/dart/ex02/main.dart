@@ -10,7 +10,7 @@ que descreveu, no ano de 1202, o crescimento de uma população de coelhos, a pa
 
  */
 void main() {
-  int n = 10; // O número de termos da sequência
+  int n = 10; 
   print('Sequência de Fibonacci com $n termos:');
 
   for (int i = 0; i < n; i++) {
